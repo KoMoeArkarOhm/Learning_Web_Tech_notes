@@ -99,3 +99,13 @@ firefox headers tag အောက်မှာ content-type ဆိုတဲ့ န
 
 ဒီမှာ ထူးထူးခြားခြားမှတ်သားရမှာက  ကျွန်တော်တို့ php array ကြီး return ပြန်လိုက်ပေမယ့် laravel က json အဖြစ် အလိုလျှောက်ပြောင်းပေးလိုက်တာပါပဲ။
 ['ညီမလေး'] ဆိုပြီး ညီမလေးရှေ့မှာ array ကိုခေါပြလိုက် ထွက်တာတဲ့ outputမြင်ပြီး ပီတီများ ဖြာစေမလား ဟဲဟဲ
+
+http://127.0.0.1:8000/test ဆိုပြီး request လုပ်တဲ့အခါမှာ test ဆိုတဲ့ view ကိုပြပေးတဲ့ code ရေးကြရအောင်။
+![image of showing content type](https://github.com/KoMoeArkarOhm/image_resources_to_use_in_my_repositories/blob/master/create_route.PNG)
+output ကိုသွားကြည်ရင် 
+![image of showing content type](https://github.com/KoMoeArkarOhm/image_resources_to_use_in_my_repositories/blob/master/create_route_output.PNG)
+
+what !!! ERROR တွေပါလား ဘယ်လိုဖြစ်ရတာပါလိမ် အုန်းကြီး လုပ်ပါအုန်း။
+
+အဖြေက ရှင်းရှင်းပါ test ဆိုတဲ့ view file မှ ကျွန်တော်တို့ မရေးသားရသေးပါဘူး။
+ရေးရအောင်။
