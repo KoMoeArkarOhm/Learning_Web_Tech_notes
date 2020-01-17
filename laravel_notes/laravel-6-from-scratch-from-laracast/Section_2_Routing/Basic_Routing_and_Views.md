@@ -63,7 +63,7 @@ run ထားတဲ့ project ကိုပြန်ကြည်လိုက်�
 laravel မှာ response ပြန်ဖို့ နည်းတွေ အများကြီးရှိတယ်
 ဉပမာ ရိုးရိုး string ကို return ပြန်ကြရအောင်။
 
-code မှာ returnနောက်မှာ ပုံမှာပြထားသလို ပြင်လိုက်ပါ။
+code မှာ returnနောက်မှာ ပုံမှာပြထားသလို  ပြင်ချင်ရင်ပြင် ကြိုက်တဲ့စာသားရေးပါ။ ကျွန်တော် ပြင်လိုက်သောစာသား
 
 ![image of showing code of returning string](https://github.com/KoMoeArkarOhm/image_resources_to_use_in_my_repositories/blob/master/returning_string.PNG)
 
