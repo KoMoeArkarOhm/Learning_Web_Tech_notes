@@ -37,4 +37,4 @@ composer သုံးပြီး project ဆောက်မယ်!! cmd မှ�
 
           composer create-project --prefer-dist laravel/laravel blog
           
-````composer create-project --prefer-dist အဖွဲနာမည်/project_name/project_folder_name   ````    ပြောတာပါ။    
+````composer create-project --prefer-dist အဖွဲနာမည်/project_name   project_folder_name   ````    ပြောတာပါ။    
