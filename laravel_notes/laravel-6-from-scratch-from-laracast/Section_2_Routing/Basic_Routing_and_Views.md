@@ -112,3 +112,15 @@ what !!! ERROR တွေပါလား ဘယ်လိုဖြစ်ရတာ�
 
 အဖြေက ရှင်းရှင်းပါ test ဆိုတဲ့ view file မှ ကျွန်တော်တို့ မရေးသားရသေးပါဘူး။
 ရေးရအောင်။
+
+ test.php လိုပဲ ရေးရေး welcome file လိုပဲ welcome.blade.php လိုမျိုး test.blade.php လိုမျိုးပဲ ရေးရေးပါ။ အခုတော့ test.blade.php လို့ပဲ  resources folder အောက်က view folder မှာ fileအသစ် ဆောက်လိုက်ပါ။ အဲ့တာမှ urlမှာ /test လိုခေါ လိုက်ရင် laravel က web.php မှာ /test return ပြန်တာကို ကြည်မယ် အဲမှာ ပြန်ထားတာက test view ဖိုင်တဲ့ အဲ့တော့မှ အဲ့ test view မှာရေးသားထာသော htmlတွေပေါလာမှာ ဖြစ်ပါတယ်။
+ 
+blade ဆိုတာက laravel ကအသုံးပြုထားတဲ့ template engine ပါ ဒီအကြောင်းကို နောက်နောင်တွင်မှ ထပ်ရှင်းပါမယ်။
+
+ကျွန်တော် test view က code
+
+![image of showing content type](https://github.com/KoMoeArkarOhm/image_resources_to_use_in_my_repositories/blob/master/my_test_file.PNG)
+
+output
+
+![image of showing content type](https://github.com/KoMoeArkarOhm/image_resources_to_use_in_my_repositories/blob/master/t_output.PNG)
