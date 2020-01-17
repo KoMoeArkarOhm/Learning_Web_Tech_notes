@@ -60,4 +60,42 @@ run ထားတဲ့ project ကိုပြန်ကြည်လိုက်�
 
 နောက်ထပ် စမ်းချင်တာ စမ်းပါ မရှိတာမို မရှိဘူး စက်ကတော့ ဆက်ပြောနေမှာပါ။အဲ့တော့ ဆက်ရအောင်။
 
+laravel မှာ response ပြန်ဖို့ နည်းတွေ အများကြီးရှိတယ်
+ဉပမာ ရိုးရိုး string ကို return ပြန်ကြရအောင်။
 
+code မှာ returnနောက်မှာ ပုံမှာပြထားသလို ပြင်လိုက်ပါ။
+
+![image of showing code of returning string](https://github.com/KoMoeArkarOhm/image_resources_to_use_in_my_repositories/blob/master/returning_string.PNG)
+
+output:
+
+![image of showing output of returning string](https://github.com/KoMoeArkarOhm/image_resources_to_use_in_my_repositories/blob/master/returning_string_output.PNG)
+
+JSON return ပြန်မယ်။
+
+code မှာ returnနောက်မှာ ပုံမှာပြထားသလို ပြင်ချင်ရင်ပြင် ကြိုက်တဲ့စာသားရေးပါ။ ကျွန်တော် ပြင်လိုက်သောစာသား
+
+![image of showing 404 Error2](https://github.com/KoMoeArkarOhm/image_resources_to_use_in_my_repositories/blob/master/returning_json.PNG)
+
+output in firefox :
+
+![image of showing 404 Error2](https://github.com/KoMoeArkarOhm/image_resources_to_use_in_my_repositories/blob/master/jsonputput.png)
+
+
+
+
+
+တခြား browser မှာကြည်ရင် ဉပမာ chrome မှာ
+
+![image of showing 404 Error2](https://github.com/KoMoeArkarOhm/image_resources_to_use_in_my_repositories/blob/master/output_chrome.PNG)
+
+အဲလိုတွေမြင်ရပါမယ်။
+
+firefox လို တွေချင်ရင်တော့ add-on or extension သွင်းပေးရပါမယ်။
+firefox headers tag အောက်မှာ content-type ဆိုတဲ့ နေရာကို ကြည်ရင် application/json ဖြစ်လို json အမျိုးအစားမှန်းသိနိင်ပါတယ်။
+
+
+![image of showing content type](https://github.com/KoMoeArkarOhm/image_resources_to_use_in_my_repositories/blob/master/jsonputput1.png)
+
+ဒီမှာ ထူးထူးခြားခြားမှတ်သားရမှာက  ကျွန်တော်တို့ php array ကြီး return ပြန်လိုက်ပေမယ့် laravel က json အဖြစ် အလိုလျှောက်ပြောင်းပေးလိုက်တာပါပဲ။
+['ညီမလေး'] ဆိုပြီး ညီမလေးရှေ့မှာ array ကိုခေါပြလိုက် ထွက်တာတဲ့ outputမြင်ပြီး ပီတီများ ဖြာစေမလား ဟဲဟဲ
