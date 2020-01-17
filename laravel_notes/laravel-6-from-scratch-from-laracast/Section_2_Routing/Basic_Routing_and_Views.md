@@ -1,5 +1,7 @@
 # Basic Routing and Views 
 
+[installation steps တွေ လုပ်ဆောင်ပြီးတဲ့အခါ project folder ကို text editor တစ်ခုခုနဲ့ဖွင့်လိုက်](https://github.com/KoMoeArkarOhm/Learning_Web_Tech_notes/blob/master/laravel_notes/installation_steps_notes.md)
+
 ## ````project folder```` ထည်းက ````routes folder```` ထည်းက ````web.php ````
 ![image of showing web.php](https://github.com/KoMoeArkarOhm/image_resources_to_use_in_my_repositories/blob/master/laracast_note_1.PNG)
 
