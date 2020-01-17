@@ -53,9 +53,9 @@ run ထားတဲ့ project ကိုပြန်ကြည်လိုက်�
 
 ![image of showing 404 Error](https://github.com/KoMoeArkarOhm/image_resources_to_use_in_my_repositories/blob/master/showing404Error.PNG)
 
-![image of showing 404 Error](https://github.com/KoMoeArkarOhm/image_resources_to_use_in_my_repositories/blob/master/showing404Error1.PNG)
+![image of showing 404 Error1](https://github.com/KoMoeArkarOhm/image_resources_to_use_in_my_repositories/blob/master/showing404Error1.PNG)
 
-![image of showing 404 Error](https://github.com/KoMoeArkarOhm/image_resources_to_use_in_my_repositories/blob/master/showing404Error2.PNG)
+![image of showing 404 Error2](https://github.com/KoMoeArkarOhm/image_resources_to_use_in_my_repositories/blob/master/showing404Error2.PNG)
 
 
 နောက်ထပ် စမ်းချင်တာ စမ်းပါ မရှိတာမို မရှိဘူး စက်ကတော့ ဆက်ပြောနေမှာပါ။အဲ့တော့ ဆက်ရအောင်။
