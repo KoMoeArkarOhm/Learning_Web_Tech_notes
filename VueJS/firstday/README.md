@@ -25,3 +25,5 @@ message: 'Hello World'
 
 pure js နဲ့ လုပ်ချင်ရင်
 [code link](https://jsfiddle.net/v5owbwf0/4/)
+
+[complete link](https://www.wintellect.com/data-binding-pure-javascript/)
