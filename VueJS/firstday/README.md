@@ -23,3 +23,5 @@ message: 'Hello World'
 </script>
 ```
 
+pure js နဲ့ လုပ်ချင်ရင်
+[code link](https://jsfiddle.net/v5owbwf0/4/)
