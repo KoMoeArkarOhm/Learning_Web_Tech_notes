@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title></title>
+  </head>
+
+  <body>
+    <h1>
+      at least one element which occurs in two given sorted integer arrays
+    </h1>
+    <div>
+      <label for="Arr">Array</label>
+      <input type="text" name="Arr" id="inputArr" />
+      <label for="kth">Kth</label>
+      <input type="text" name="kth" id="inputkth" />
+      <button onclick="ShowResult()" id="btnLabel">Show kth number</button>
+    </div>
+  </body>
+  <script>
+    let result = 0;
+    function ShowResult() {
+      Arr = document.getElementById("inputArr").value.split(", ");
+      k = document.getElementById("inputkth").value;
+      result = kthFinder(Arr, k);
+      document.getElementById("btnLabel").innerText = result;
+    }
+    let kthFinder = function(Arr, k) {
+      if (k > Arr.length) {
+        alert(
+          "please fix your input as kth number is more than the array size!!"
+        );
+      } else if (k <= Arr.length) {
+        k -= 1;
+        return Arr[k];
+      }
+    };
+  </script>
+</html>
